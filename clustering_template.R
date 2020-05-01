@@ -32,6 +32,8 @@ str(my_data)
 
 summary(my_data$Petal.Length)
 
+summary(my_data$Petal.Width)
+
 # Let's explore the distribution of petal length across the different species
 
 qplot(
